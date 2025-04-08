@@ -1,0 +1,9 @@
+Manual Test cases:
+#Make sure internet connection is On
+#M1: Check the website on mobile, #Desktop, lap working or not
+#M2: Check on different browsers Chrome, Firefox, Edge, Safari
+#M3: Check on displayed text is visible for users based on WCAG
+#M4:After entering string, clicking submit button works properly and it should need to show new url or page title.
+#M5: Without input clicking on submit shows user friendly message
+#M6: Check back Navigation is working fine 
+#M7: Firendly error messages.

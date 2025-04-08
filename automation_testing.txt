@@ -1,0 +1,13 @@
+Automation Test cases:
+A1: input valid string "abcabcbb" - output : "abc" 
+A2: Input "a b c d e" - output : " a b c d e" 
+A3: Input " " - output : " " 
+A4: Input "a " - output : " a " 
+A5: Input "aaaaa" - output : "aaaaa" 
+A6: Input "a@$#&@dvhh" - output : please  enter string or letters only not include specail characters.
+A7: Input "abc123abc" - output : " abc" 
+A8: Input "abc123abc123" - output : "abc123" 
+
+Additional scenarios:
+#Using postman when we url base point then it should show respective results. 
+#Perform CRUD operations to validate url
